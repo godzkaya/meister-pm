@@ -1,6 +1,6 @@
 # IT Proje Yöneticiliği Kursu / meister-pm
 
-# Ön uyarı: Bu eğitimin dili Türkçe olmasına rağmen İngilizce terimler içerir. Tahmin edileceği gibi İngilizce, IT sektörünün ana dilidir. Bu yüzden bu sektörü tercih edecek kişilerin minimum B2 seviyesinde İngilizce bilmeleri oldukça kritiktir.
+Ön uyarı: Bu eğitimin dili Türkçe olmasına rağmen İngilizce terimler içerir. Tahmin edileceği gibi İngilizce, IT sektörünün ana dilidir. Bu yüzden bu sektörü tercih edecek kişilerin minimum B2 seviyesinde İngilizce bilmeleri oldukça kritiktir.
 
 - Eğitim daha çok teknik konular ağırlıklı olmakla birlikte, proje yönetim biçimlerini de içeriyor. %30 - %70 gibi düşünülebilir. Bunun sebebi ise bu alanı tercih eden/edecek kişilerin en büyük yetersizliklerinin daha çok teknik anlamda olduğunu görmem.
 
