@@ -77,7 +77,7 @@ Konular:
 
 
 
-Harika bir eğitim planı! İşte konuların altında, anlaşılabilir örneklerle açıklamalar:
+-------------------
 
 **Agile Metotları**
 
