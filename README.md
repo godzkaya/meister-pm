@@ -1,8 +1,8 @@
 # IT Proje Yöneticiliği Kursu / meister-pm
 
-Ön uyarı: Bu eğitimin dili Türkçe olmasına rağmen İngilizce terimler içerir. Tahmin edileceği gibi İngilizce, IT sektörünün ana dilidir. Bu yüzden bu sektörü tercih edecek kişilerin minimum B2 seviyesinde İngilizce bilmeleri oldukça kritiktir.
+Ön uyarı: Bu kursun dili Türkçe olmasına rağmen İngilizce terimler içerir. Tahmin edileceği gibi İngilizce, IT sektörünün ana dilidir. Bu yüzden bu sektörü tercih edecek kişilerin minimum B2 seviyesinde İngilizce bilmeleri oldukça kritiktir.
 
-- Eğitim daha çok teknik konular ağırlıklı olmakla birlikte, proje yönetim biçimlerini de içeriyor. %30 - %70 gibi düşünülebilir. Bunun sebebi ise bu alanı tercih eden/edecek kişilerin en büyük yetersizliklerinin daha çok teknik anlamda olduğunu görmem.
+- Kurs daha çok teknik konular ağırlıklı olmakla birlikte, proje yönetim biçimlerini de içeriyor. %30 - %70 gibi düşünülebilir. Bunun sebebi ise bu alanı tercih eden/edecek kişilerin en büyük yetersizliklerinin daha çok teknik anlamda olduğunu görmem.
 
 - Burada en doğal olan şey ise sektörün henüz başındayken; hangi konulardan sorumlu olduğunuzu bilmemek, ‘nelere? ne kadar?’ hakim olacağınızı görememek. Yani bir kılavuzunuzun olmaması.
   
@@ -11,18 +11,18 @@
 
 # Bu kurs neden önemli?
 
-Öncelikle kursun verdiği şey sıralı bir liste. Bu sektördeki başarı olabilmek, kişinin kendi keşfettiği yöntemlerle karaya çıkmasına uygun değil. Uzun yıllar boyunca elde ettiğim tecrübeleri bir müfredat haline getirip, deyim yerindeyse karaya varmak isteyenlere ışık tutmasıdır.
+Öncelikle kursun verdiği şey sıralı bir liste. Amacım, uzun yıllar boyunca elde ettiğim tecrübeleri bir müfredat haline getirip, deyim yerindeyse karaya varmak isteyenlere ışık tutmaktır.
 
 Aşağıda göreceğiniz tüm başlıklar ve içerdikleri, yıllar içinde karaya varan bir gezginin öğrendikleri.
 
-Eğitim içeriklerini oluştururken ben de ‘Vay be’ dedim. Umarım yeni/eski herkese faydalı olur.
+Eğitim içeriklerini oluştururken ben de ‘Vay be ne çokmuş’ dedim. Umarım yeni/eski herkese faydalı olur.
 
 # Buna neden kurs diyorum?
 Aklımda video serisi çekme düşüncesi oluğundan böyle adlandırıyorum. Umarım yapabilirim.
 
 ---------------------------------
 
-# Hepsini bilmek zorunda mısınız?
+# Hepsini bilmek zorunda mısın?
 Ne kadar bilirsen, o kadar iyisin.
 
 Konular:
@@ -49,17 +49,18 @@ Konular:
         - VPN
         - SSL
         - Cloud(Azure, AWS, GCP)
-        - SAAS, IAAS, PAAS
+        - SAAS, IAAS, PAAS, IaC
         - CDN
         - Webserver(IIS, Nginx, Apache2)
             - Dizin/dosya guvenligi(.rar, .zip, .txt)
+            - Temel konfigurasyonlar(caching, whitelist, loadbalancing, security, performance)
         - GIT
         - Pozisyonlar ve gorevleri
         - Pentest
         - Loadtest(Stresstest)
         - Databaseler
         - Isletim sistemleri Windows-Linux
-        - Testing - Unit, UAT, Autmated
+        - Testing - Unit, UAT, Automated test
     - Ileri duzey kavramlar
         - Message queue
         - Redis, Rabbitmq
@@ -67,7 +68,12 @@ Konular:
         - MVC nedir?
         - Docker
         - Microservices
-        - VM nedir?
+        - VM / Virtual Machine nedir?
+        - 3 Layer Architecture
+        - Image repository
+        - Artifactory
+        - Openshift
+        - APM tools
 
 
 * Bu repository, IT Proje Yöneticiliğine sıfırdan başlayacak ve ilerlemiş olanlara da yardımcı olmak amacıyla oluşturulmuştur.
